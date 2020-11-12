@@ -10,7 +10,7 @@ Currently using face detection with OpenCV for detection play/pause. Previously 
 1. Click zip link above, unzip to some directory
 2. Load unpacked in Chrome/Edge (not tested in Firefox)
 3. Click on extension icon, click on the empty button
-4. Navigate to a YouTube page
+4. Navigate to a YouTube page **and pin it**
 5. If there is a red box around your face on the extension popup, then the video should be playing; otherwise the video will be paused.
 
 ## Known Bugs
